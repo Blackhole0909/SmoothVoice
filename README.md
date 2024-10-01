@@ -1,4 +1,4 @@
-# ChatGPT-with-Smooth-Voice
+SmoothVoice
 Combine ChatGPT with voice cloning. Make ChatGPT alive!
 
 We use VoiceFixer to make the voice of ChatGPT smoother!
